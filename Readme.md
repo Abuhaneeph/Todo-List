@@ -1,6 +1,6 @@
-# Solidity Todo List Smart Contract
+# Decentralized Todo List Smart Contract
 
-A decentralized Todo List application built on the Ethereum blockchain. This smart contract leverages Solidity's data structures to create a simple yet functional task management system.
+This smart contract leverages Solidity's data structures to create a simple yet functional task management system.
 
 ## Overview
 
